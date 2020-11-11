@@ -9,3 +9,8 @@
 
 .terraformrc
 terraform.rc
+*.tfplan
+*.zip
+*_SHA256SUMS
+
+terraform
